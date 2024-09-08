@@ -1,0 +1,51 @@
+.VSCodeCounter
+
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+pnp/
+.pnp/
+.pnp.js
+
+# Miscellaneous
+*.local
+
+# Build output
+/build
+/dist/
+/out/
+
+# Release folder
+/release/
+
+# Testing
+/coverage/
+junit.xml
+
+# Editor directories and files
+.vscode/
+.idea/
+.husky/
+
+# OS-specific files
+.DS_Store
+
+# Visual Studio specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Miscellaneous files
+*.sw?
+
+# Secrets
+secret*
+
+# Environment variables
+.env
